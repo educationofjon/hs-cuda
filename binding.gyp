@@ -12,8 +12,8 @@
     "target_name": "hsminer",
     "sources": [
       "./src/node/hs-miner.cc",
-      "./src/tromp/blake2b-ref.c",
-      "./src/sha3/sha3.c",
+      "./src/blake2b/blake2b-ref.c",
+      "./src/blake2b/blake2b.c",
       "./src/lean.cc",
       "./src/mean.cc",
       "./src/simple.cc",
